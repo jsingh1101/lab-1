@@ -1,0 +1,84 @@
+Script started on 2024-09-30 21:47:53-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;jsingh1101@jsingh1101-VirtualBox: ~/ops445/lab1 [01;32mjsingh1101@jsingh1101-VirtualBox[00m:[01;34m~/ops445/lab1[00m$ exitpython3 lab3f.pye.pyd.pyc.py[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K    [7mpython3 lab3a.py[27m
+
+[7mpython3 lab3b.py[27m
+
+[7mpython3 lab3c.py[27m
+
+[7mpython3 lab3d.py[27m
+
+[7mpython3 lab3e.py[27m
+
+[7mpython3 lab3f.py[27m[A[A[A[A[A
+]0;jsingh1101@jsingh1101-VirtualBox: ~/ops445/lab1 [01;32mjsingh1101@jsingh1101-VirtualBox[00m:[01;34m~/ops445/lab1[00m$ python3 lab3a.py
+
+python3 lab3b.py
+
+python3 lab3c.py
+
+python3 lab3d.py
+
+python3 lab3e.py
+
+python3 lab3f.py[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pe.py1e.py[A[A[A[A
+]0;jsingh1101@jsingh1101-VirtualBox: ~/ops445/lab1 [01;32mjsingh1101@jsingh1101-VirtualBox[00m:[01;34m~/ops445/lab1[00m$ [C[C[C[C[C[C[C[C[C[C[C[Cb.py
+
+[K
+
+[K
+
+[K
+
+[K[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca.py
+
+python3 lab3b.py
+
+python3 lab3c.py
+
+python3 lab3d.py
+
+python3 lab1e.py[A[A[A[A
+]0;jsingh1101@jsingh1101-VirtualBox: ~/ops445/lab1 [01;32mjsingh1101@jsingh1101-VirtualBox[00m:[01;34m~/ops445/lab1[00m$ [C[C[C[C[C[C[C[C[C[C[C[Cb.py
+
+[K
+
+[K
+
+[K
+
+[K[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca.py
+
+python3 lab3b.py
+
+python3 lab3c.py
+
+python3 lab3d.py
+
+python3 lab1e.py
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pd.py1d.py
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pc.py1c.py
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pb.py1b.py
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pa.py1a.py
+
+
+
+
+[?2004l
+Hello world
+Isaac
+name
+I have a friend named Isaac
+How old are you Isaac?
+5
+10
+15
+The sum is: 15
+Isaac is 72 years old!
+10 + 2 * 5 = 20
+python3: can't open file '/home/jsingh1101/ops445/lab1/lab1e.py': [Errno 2] No such file or directory
+[?2004h]0;jsingh1101@jsingh1101-VirtualBox: ~/ops445/lab1 [01;32mjsingh1101@jsingh1101-VirtualBox[00m:[01;34m~/ops445/lab1[00m$ exit
+[?2004l
+exit
+
+Script done on 2024-09-30 21:48:39-04:00 [COMMAND_EXIT_CODE="2"]
